@@ -150,6 +150,8 @@ Recoil을 이용하여 유동적인 값들의 상태를 관리했습니다. <br 
 React Query를 사용하여 비동기 관련 로직 및 상태를 관리하고, <br />
 Framer-Motion을 사용하여 styled-components에서도 쉽게 사용 가능하고 다양한 애니메이션 기능을 간편하게 제공
 
+<br />
+
 ### Back-end
 <div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" />
@@ -173,6 +175,31 @@ Framer-Motion을 사용하여 styled-components에서도 쉽게 사용 가능하
 레디스 서버를 통해 유효시간이 필요로 되는 로직에서의 성능 이점을 확보하고, <br />
 Rest Docs로 빌드 안정성과 API 문서화를 할 예정이다. <br />
 
+<br />
+
+### Infra Structure
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="100" height="100" />
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="100" height="100" />
+</div>
+
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="icon" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="icon" />
+</div>
+
+- **Github Actions**
+- **AWS EC2**
+- **AWS Route 53**
+
+Docker로 동일한 백엔드 환경을 구축하고, <br/>
+AWS EC2 인스턴스에 서버를 배포하였습니다. <br/>
+Github Action을 사용하여 지속적인 배포 파이프라인을 만들고, <br/>
+Git과 Github을 사용하여 코드를 관리하고, 팀원들과 협업하였습니다.
+
+<br />
 
 ## 시스템 아키텍처 (개발팀)
 <div align="center">
