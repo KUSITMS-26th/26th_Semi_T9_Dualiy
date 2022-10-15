@@ -146,9 +146,9 @@
 <img src="https://user-images.githubusercontent.com/83197138/195970734-ed0c40d7-77ae-448f-9633-e36c8f7dd3f0.png" alt="Emotion logo" height="50" width="50" style="max-width: 100%;"> <br />
 
 React를 사용하여 사용자와의 상호작용을 하는 앱화면을 효율적으로 구성하고, <br />
-Recoil을 이용하여 유동적인 값들의 상태를 관리했습니다. <br />
+Recoil을 이용하여 유동적인 값들의 상태를 관리할 예정입니다. <br />
 React Query를 사용하여 비동기 관련 로직 및 상태를 관리하고, <br />
-Framer-Motion을 사용하여 styled-components에서도 쉽게 사용 가능하고 다양한 애니메이션 기능을 간편하게 제공
+Framer-Motion을 사용하여 styled-components에서도 쉽게 사용 가능하고 다양한 애니메이션 기능을 간편하게 제공할 것입니다.
 
 <br />
 
@@ -171,9 +171,9 @@ Framer-Motion을 사용하여 styled-components에서도 쉽게 사용 가능하
 </div>
 
 다양한 하위 프레임워크를 지원하는 스프링 프레임워크를 통해 서버를 구축하고,<br />
-스프링 시큐리티와 JWT 토큰으로 보안성을 높일 예정이다. <br />
+스프링 시큐리티와 JWT 토큰으로 보안성을 높일 예정입니다. <br />
 레디스 서버를 통해 유효시간이 필요로 되는 로직에서의 성능 이점을 확보하고, <br />
-Rest Docs로 빌드 안정성과 API 문서화를 할 예정이다. <br />
+Rest Docs로 빌드 안정성과 API 문서화를 할 예정입니다. <br />
 
 <br />
 
@@ -195,9 +195,9 @@ Rest Docs로 빌드 안정성과 API 문서화를 할 예정이다. <br />
 - **AWS Route 53**
 
 Docker로 동일한 백엔드 환경을 구축하고, <br/>
-AWS EC2 인스턴스에 서버를 배포하였습니다. <br/>
+AWS EC2 인스턴스에 서버를 배포할 예정입니다. <br/>
 Github Action을 사용하여 지속적인 배포 파이프라인을 만들고, <br/>
-Git과 Github을 사용하여 코드를 관리하고, 팀원들과 협업하였습니다.
+Git과 Github을 사용하여 코드를 관리하고, 팀원들과 협업할 것입니다.
 
 <br />
 
