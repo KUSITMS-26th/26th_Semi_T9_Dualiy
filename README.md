@@ -203,9 +203,8 @@ Git과 Github을 사용하여 코드를 관리하고, 팀원들과 협업할 것
 
 ## 시스템 아키텍처 (개발팀)
 <div align="center">
-  <img width="700" alt="스크린샷 2022-10-10 오후 7 22 31" src="https://user-images.githubusercontent.com/83197138/195968638-0b24c1a9-86e1-47a4-8730-2a27a71c58a6.png">
+  <img width="700" alt="스크린샷 2022-10-10 오후 7 22 31" src="https://user-images.githubusercontent.com/83197138/195998113-dd63dca6-022c-4ca6-ae22-eb7e1636cfa2.png">
 </div>
-
 
 ## 주요 기능 명세서
 
